@@ -1,0 +1,7 @@
+{
+    "rules": {
+      "no-unused-expressions": "off",
+      "react-internal/safe-string-coercion": "error"
+    }
+  }
+  
